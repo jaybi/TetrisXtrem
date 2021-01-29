@@ -77,8 +77,8 @@ ROI : 25
 
 # Interface menu
 
-**n** | Joueur | Disposer d'une interface graphique | Modifier les options de façon ergonomique | 90
-n | Le menu est codé | Le joueur lance l'application | L'interface graphique s'affiche et répond
+**23** | Joueur | Disposer d'une interface graphique | Modifier les options de façon ergonomique | 90
+23 | Le menu est codé | Le joueur lance l'application | L'interface graphique s'affiche et répond
 
 (120min)
 ROI : 11,25
@@ -142,6 +142,7 @@ ROI : 15
 ROI : 90
 
 **18** | Joueur | Lorsque les pièces positionnées forment une ligne complète, elles disparaissent | Libérer de l'espace | 100
+
 18 | Une ou des ligne(s) complétée(s) | Je pose une nouvelle pièce | Les lignes complétées disparaissent
 (30min)
 ROI : 50
