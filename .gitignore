@@ -1,27 +1,28 @@
-# Compiled class file
-*.class
+# Created by https://www.gitignore.io/api/eclipse
 
-# Log file
-*.log
+### Eclipse ###
 
-# BlueJ files
-*.ctxt
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+### Eclipse Patch ###
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+# Eclipse Core		
+.project
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# JDT-specific (Eclipse Java Development Tools)		
+.classpath
 
-#VSCode
-*.code-workspace
-
+### IDEA ###
+.idea/
+target/
+*.iml
