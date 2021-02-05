@@ -1,4 +1,4 @@
-package tetris;
+package tetris.tetriminos;
 
 public class TetriO extends Tetrimino {
     public TetriO() {

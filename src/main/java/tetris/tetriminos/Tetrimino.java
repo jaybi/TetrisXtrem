@@ -1,4 +1,4 @@
-package tetris;
+package tetris.tetriminos;
 
 public class Tetrimino {
     protected int posx;
