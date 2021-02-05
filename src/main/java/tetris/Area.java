@@ -12,5 +12,5 @@ public class Area {
     public int[][] getArea(){
         return this.area;
     }
-
+    
 }
