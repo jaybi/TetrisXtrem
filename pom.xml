@@ -7,6 +7,7 @@
     <groupId>com.excilys</groupId>
     <artifactId>formationxp</artifactId>
     <version>1.0-SNAPSHOT</version>
+<<<<<<< HEAD
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -27,3 +28,19 @@
         </dependency>
     </dependencies>
 </project>
+=======
+    <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+
+    </properties>
+        <dependencies>
+            <dependency>
+                <groupId>org.junit.jupiter</groupId>
+                <artifactId>junit-jupiter-api</artifactId>
+                <version>RELEASE</version>
+                <scope>test</scope>
+            </dependency>
+        </dependencies>
+</project>
+>>>>>>> 314d85db777b08bf3237d8bfd0ee9db70aa506e5
