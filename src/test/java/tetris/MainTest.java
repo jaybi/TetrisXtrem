@@ -1,4 +1,4 @@
-package formation.xp;
+package tetris;
 
 import org.junit.jupiter.api.Test;
 
